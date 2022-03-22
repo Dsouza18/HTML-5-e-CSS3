@@ -1,0 +1,47 @@
+
+Estrutura básica HTML
+
+<!DOCTYPE html>
+<html>
+<meta>
+<title></title>
+</head>
+<body>
+</body>
+</html>
+
+Semântica (html 5)
+
+<section> - representa uma sessão genérica de uma página
+<header> - representa um cabeçalho da página
+<article> - representa um conteúdo relevante na página
+<aside> -  representa um conteúdo relacionado ao conteúdo principal
+<footer> - representa um rodapé da página
+<h1>-<h6> - Tamanho dos títulos 
+
+Tags para textos
+
+<h1>Título da página</h1>
+<h2>Título da seção</h2>
+<h3>Título de artigo</h3>
+<p> Conteúdo do artigo.</p>  
+
+Tags para textos e links
+
+<a>link</a>
+<a href="linkedin.com/in/danielsantos">Linkedin</a>
+<a href="malito:danielsantos1805@hotmail.com">E-mail</a>
+
+<a target="_blank">Link</a>
+
+Tags para Imagem
+
+<img>
+<img src="img/avatar.jpg">
+<img alt-"Foto de Daniel Santos">
+
+Tags para Listas
+
+<ul> - item 2, item 4
+<ol> - 1. item, 2.item
+<li>
